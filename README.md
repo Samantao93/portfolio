@@ -36,7 +36,7 @@
 - National Security Scheme (RD 311/2022, of May 3) – CCN-CERT (National Cryptologic Center), Jul 2024
 - Research Data Management and Data Management Plans (for managers) – ISCIII, May 2024
 
-## Publications, see my [ORCID profile](https://orcid.org/0000-0003-0731-6975) (ORCID iD: 0000-0003-0731-6975).
+## Publications, see my [ORCID profile](https://orcid.org/0000-0003-0731-6975) (ORCID ID: 0000-0003-0731-6975).
 
 
 
