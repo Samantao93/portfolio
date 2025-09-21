@@ -3,14 +3,14 @@
 #### Technical Skills: Python, SQL, R, Artificial Intelligence, RNA-seq, scRNA-seq, ChIP-seq
 
 ## Education
-- Ph.D. Student on Artificial Intelligence | University of Alicante
-- M.S. in Bioinformatics | University of Murcia
-- M.S. in Biotechnology and Bioengineering | Miguel Hernández University of Elche
-- B.S. in Biotechnology | Miguel Hernández University of Elche
+- Ph.D. Student on Artificial Intelligence - University of Alicante
+- M.S. in Bioinformatics - University of Murcia
+- M.S. in Biotechnology and Bioengineering - Miguel Hernández University of Elche
+- B.S. in Biotechnology - Miguel Hernández University of Elche
 
 
 ## Work Experience
-- **Data Scientist (Bioinformatics) | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_feb. 2022 - present_)**
+- **Data Scientist (Bioinformatics)** | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_feb. 2022 - present_)
   - **Systems & Databases:** Linux administration, REDCap, database management, OMOP-CDM, Pentaho, automation
   - **Data Acquisition & Big Data:** API integration, web scraping, wrangling, visualization, web apps
   - **Bioinformatics:** NGS (RNA-Seq, ChIP-Seq, ATAC-Seq, scRNA-Seq), functional analysis, splicing, public data mining
@@ -18,14 +18,23 @@
   - **Deep Learning:** Neural networks, transfer learning, data augmentation, image normalization, segmentation, classification
   - **Statistics & Analysis:** Descriptive stats, hypothesis testing, survival analysis, Shiny applications
 
-- **Data Scientist (Bioinformatics) | University of Murcia (_dec. 2019 - ago. 2021_)** and **Data Scientist (Bioinformatics) | Taxon Estudios Ambientales S.L (_nov. 2018 - dec. 2019_)**
+- **Data Scientist (Bioinformatics)** | University of Murcia (_dec. 2019 - ago. 2021_) and Taxon Estudios Ambientales S.L (_nov. 2018 - dec. 2019_)
   - **Linux System Administrator**
   - **Database Administrator** (PostgreSQL)
   - **Web App Developer** (Multiple Shiny Apps)
 
 ## Projects
-- EUCAIM - Cancer Image Europe
-- Joint Action on CARdiovascular diseases and DIabetes - JACARDI
+- Data Scientist
+  -  
+
+- Applied AI Engineer
+  - 
+
+- Bioinformatics
+  - [RNA-seq]()
+  - [scRNA-seq]()
+  - [ChIP-seq]()
+  - [Alternative splicing]()
 
 ## Recent Courses
 - Machine Learning with Python: Advanced Machine Learning – Udemy, Sep 2025
