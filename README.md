@@ -3,10 +3,10 @@
 #### Technical Skills: Python, SQL, R, Artificial Intelligence, RNA-seq, scRNA-seq, ChIP-seq
 
 ## Education
-- Ph.D. Student on Artificial Intelligence - University of Alicante
-- M.S. in Bioinformatics - University of Murcia
-- M.S. in Biotechnology and Bioengineering - Miguel Hernández University of Elche
-- B.S. in Biotechnology - Miguel Hernández University of Elche
+- Ph.D. Student on Artificial Intelligence - University of Alicante (in progress)
+- M.S. in Bioinformatics - University of Murcia (Sep 2020)
+- M.S. in Biotechnology and Bioengineering - Miguel Hernández University of Elche (Sep 2017)
+- B.S. in Biotechnology - Miguel Hernández University of Elche (Mar 2016)
 
 
 ## Work Experience
