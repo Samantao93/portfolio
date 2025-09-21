@@ -40,7 +40,7 @@
   - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/blob/main/script.sh) (ongoing improvements)
 
 - JavaScript
-  -  [Veterinary appointments] (https://github.com/Samantao93/citas_veterinarias)
+  -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
 
 ## Recent Courses
 - Machine Learning with Python: Advanced Machine Learning – Udemy, Sep 2025
