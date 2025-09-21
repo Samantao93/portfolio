@@ -10,31 +10,37 @@
 
 
 ## Work Experience
-- **Data Scientist (Bioinformatics)** | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_feb. 2022 - present_)
-  - **Systems & Databases:** Linux administration, REDCap, database management, OMOP-CDM, Pentaho, automation
+**Data Scientist (Bioinformatics)** | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_feb. 2022 - present_)
+  - **Systems & Databases:** Linux administration, REDCap, database management (MariaDB and PostgreSQL), OMOP-CDM, Pentaho, automation
   - **Data Acquisition & Big Data:** API integration, web scraping, wrangling, visualization, web apps
   - **Bioinformatics:** NGS (RNA-Seq, ChIP-Seq, ATAC-Seq, scRNA-Seq), functional analysis, splicing, public data mining
   - **Machine Learning:** Classification (Logistic Regression, Random Forest, XGBoost, LightGBM, KNN, SVM), Clustering (k-means, hierarchical), Dimensionality Reduction (PCA, UMAP), Model Evaluation (ROC analysis, performance metrics)
   - **Deep Learning:** Neural networks, transfer learning, data augmentation, image normalization, segmentation, classification
   - **Statistics & Analysis:** Descriptive stats, hypothesis testing, survival analysis, Shiny applications
 
-- **Data Scientist (Bioinformatics)** | University of Murcia (_dec. 2019 - ago. 2021_) and Taxon Estudios Ambientales S.L (_nov. 2018 - dec. 2019_)
+**Data Scientist (Bioinformatics)** | University of Murcia (_dec. 2019 - ago. 2021_) and Taxon Estudios Ambientales S.L (_nov. 2018 - dec. 2019_)
   - **Linux System Administrator**
   - **Database Administrator** (PostgreSQL)
   - **Web App Developer** (Multiple Shiny Apps)
 
 ## Projects
 - Data Scientist
-  -  
+  -  [TCGA project](https://github.com/Samantao93/TCGA_analysis) (ongoing improvements)
 
 - Applied AI Engineer
-  - 
+  - Prediction (in progress)
+  - Prediction (in progress)
+  - Clustering (in progress)
+  - Medical Image (in progress)
 
 - Bioinformatics
-  - [RNA-seq]()
-  - [scRNA-seq]()
-  - [ChIP-seq]()
-  - [Alternative splicing]()
+  - RNA-seq (in progress)
+  - scRNA-seq (in progress)
+  - ChIP-seq (in progress)
+  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/blob/main/script.sh) (ongoing improvements)
+
+- JavaScript
+  -  [Veterinary appointments] (https://github.com/Samantao93/citas_veterinarias)
 
 ## Recent Courses
 - Machine Learning with Python: Advanced Machine Learning – Udemy, Sep 2025
