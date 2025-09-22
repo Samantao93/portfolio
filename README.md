@@ -4,13 +4,13 @@
 
 ## Education
 - Ph.D. Student on Artificial Intelligence - University of Alicante (in progress)
-- M.S. in Bioinformatics - University of Murcia (Sep 2020)
-- M.S. in Biotechnology and Bioengineering - Miguel Hernández University of Elche (Sep 2017)
-- B.S. in Biotechnology - Miguel Hernández University of Elche (Mar 2016)
+- M.S. in Bioinformatics - University of Murcia (_Sep 2020_)
+- M.S. in Biotechnology and Bioengineering - Miguel Hernández University of Elche (_Sep 2017_)
+- B.S. in Biotechnology - Miguel Hernández University of Elche (_Mar 2016_)
 
 
 ## Work Experience
-**Data Scientist (Bioinformatics)** | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_feb. 2022 - present_)
+**Data Scientist (Bioinformatics)** | Alicante Institute for Health and Biomedical Research (ISABIAL), Alicante, Spain (_Feb 2022 - present_)
   - **Systems & Databases:** Linux administration, REDCap, database management (MariaDB and PostgreSQL), OMOP-CDM, Pentaho, automation
   - **Data Acquisition & Big Data:** API integration, web scraping, wrangling, visualization, web apps
   - **Bioinformatics:** NGS (RNA-Seq, ChIP-Seq, ATAC-Seq, scRNA-Seq), functional analysis, splicing, public data mining
@@ -18,7 +18,7 @@
   - **Deep Learning:** Neural networks, transfer learning, data augmentation, image normalization, segmentation, classification
   - **Statistics & Analysis:** Descriptive stats, hypothesis testing, survival analysis, Shiny applications
 
-**Data Scientist (Bioinformatics)** | University of Murcia (_dec. 2019 - ago. 2021_) and Taxon Estudios Ambientales S.L (_nov. 2018 - dec. 2019_)
+**Data Scientist (Bioinformatics)** | University of Murcia (_Dec. 2019 - Ago. 2021_) and Taxon Estudios Ambientales S.L (_Nov 2018 - Dec 2019_)
   - **Linux System Administrator**
   - **Database Administrator** (PostgreSQL)
   - **Web App Developer** (Multiple Shiny Apps)
@@ -37,19 +37,19 @@
   - RNA-seq (in progress)
   - scRNA-seq (in progress)
   - ChIP-seq (in progress)
-  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/blob/main/script.sh) (ongoing improvements)
+  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/blob/main/script.sh)
 
 - JavaScript
   -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
 
 ## Recent Courses
-- Machine Learning with Python: Advanced Machine Learning – Udemy, Sep 2025
-- Introduction to OMOP CDM – Veratech for Health, Jun 2025
-- OMOP CDM Exploitation – Veratech for Health, Jun 2025
-- OMOP CDM Model and Tools – Veratech for Health, Jun 2025
-- MICROCENS – CCN-CERT (National Cryptologic Center), Nov 2024
-- National Security Scheme (RD 311/2022, of May 3) – CCN-CERT (National Cryptologic Center), Jul 2024
-- Research Data Management and Data Management Plans (for managers) – ISCIII, May 2024
+- Machine Learning with Python: Advanced Machine Learning – Udemy, _Sep 2025_
+- Introduction to OMOP CDM – Veratech for Health, _Jun 2025_
+- OMOP CDM Exploitation – Veratech for Health, _Jun 2025_
+- OMOP CDM Model and Tools – Veratech for Health, _Jun 2025_
+- MICROCENS – CCN-CERT (National Cryptologic Center), _Nov 2024_
+- National Security Scheme (RD 311/2022, of May 3) – CCN-CERT (National Cryptologic Center), _Jul 2024_
+- Research Data Management and Data Management Plans (for managers) – ISCIII, _May 2024_
 
 ## Publications, see my [ORCID profile](https://orcid.org/0000-0003-0731-6975) (ORCID ID: 0000-0003-0731-6975).
 
