@@ -39,8 +39,8 @@
 - Bioinformatics
   - RNA-seq (in progress)
   - scRNA-seq (in progress)
-  - ChIP-seq (in progress)
-  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/blob/main/script.sh)
+  - [ChIP-seq](https://github.com/Samantao93/ChIP-seq/)
+  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/)
 
 - JavaScript
   -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
