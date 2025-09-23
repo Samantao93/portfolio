@@ -26,6 +26,9 @@
 ## Projects
 - Data Scientist
   -  [TCGA project](https://github.com/Samantao93/TCGA_analysis) (ongoing improvements)
+  -  API (in progress)
+  -  ETL (in progress)
+  -  Web scrapping (in progress)
 
 - Applied AI Engineer
   - Prediction (in progress)
