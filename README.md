@@ -26,7 +26,6 @@
 ## Projects
 - Data Scientist
   -  [TCGA project](https://github.com/Samantao93/TCGA_analysis) (ongoing improvements)
-  -  API (in progress)
   -  ETL (in progress)
   -  Web scrapping (in progress)
 
@@ -44,6 +43,7 @@
 
 - JavaScript
   -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
+  -  [API](https://github.com/Samantao93/fetchAPI)
 
 ## Recent Courses
 - Machine Learning with Python: Advanced Machine Learning – Udemy, _Sep 2025_
