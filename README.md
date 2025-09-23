@@ -43,7 +43,7 @@
 
 - JavaScript
   -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
-  -  [API](https://github.com/Samantao93/fetchAPI)
+  -  [API Fetch](https://github.com/Samantao93/fetchAPI)
 
 ## Recent Courses
 - Machine Learning with Python: Advanced Machine Learning – Udemy, _Sep 2025_
