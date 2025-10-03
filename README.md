@@ -30,7 +30,7 @@
   -  Web scrapping (in progress)
 
 - Applied AI Engineer
-  - Prediction (in progress)
+  - [Prediction in breast cancer](https://github.com/Samantao93/IRB_BC_MLM)
   - Prediction (in progress)
   - Clustering (in progress)
   - Medical Image (in progress)
