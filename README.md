@@ -24,24 +24,24 @@
   - **Web App Developer** (Multiple Shiny Apps)
 
 ## Projects
-- Data Scientist
+- **Data Scientist**
   -  [TCGA project](https://github.com/Samantao93/TCGA_analysis) (ongoing improvements)
   -  ETL (in progress)
   -  Web scrapping (in progress)
 
-- Applied AI Engineer
+- **Applied AI Engineer**
   - [Prediction in breast cancer](https://github.com/Samantao93/IRB_BC_MLM)
   - Prediction (in progress)
   - Clustering (in progress)
   - Medical Image (in progress)
 
-- Bioinformatics
+- **Bioinformatics**
   - RNA-seq (in progress)
   - scRNA-seq (in progress)
-  - [ChIP-seq](https://github.com/Samantao93/ChIP-seq/)
-  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing/)
+  - [ChIP-seq](https://github.com/Samantao93/ChIP-seq)
+  - [Alternative splicing](https://github.com/Samantao93/alternative_splicing)
 
-- JavaScript
+- **JavaScript**
   -  [Veterinary appointments](https://github.com/Samantao93/citas_veterinarias)
   -  [API Fetch](https://github.com/Samantao93/fetchAPI)
 
