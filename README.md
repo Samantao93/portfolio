@@ -31,7 +31,7 @@
 
 - **Applied AI Engineer**
   - [Prediction in breast cancer](https://github.com/Samantao93/IRB_BC_MLM)
-  - Prediction (in progress)
+  - [Prediction of MSU synovitis inflammation](https://github.com/Samantao93/MSU-Synovitis-Omics)
   - Clustering (in progress)
   - Medical Image (in progress)
 
