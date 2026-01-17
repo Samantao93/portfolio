@@ -37,7 +37,7 @@
 
 - **Bioinformatics**
   - RNA-seq (in progress)
-  - scRNA-seq (in progress)
+  - [scRNA-seq](https://github.com/Samantao93/hepcasp1-scRNA-seq)
   - [ChIP-seq](https://github.com/Samantao93/ChIP-seq)
   - [Alternative splicing](https://github.com/Samantao93/alternative_splicing)
 
